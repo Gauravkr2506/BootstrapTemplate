@@ -1,0 +1,20 @@
+/* import fonts */
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+Double+Pica:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@800&display=swap");
+
+body {
+  background-color: #e7d7ff;
+  background-image: url("data:image/svg+xml,%3Csvg width='6' height='6' viewBox='0 0 6 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23bfb6cc' fill-opacity='1' fill-rule='evenodd'%3E%3Cpath d='M5 0h1L0 6V5zM6 5v1H5z'/%3E%3C/g%3E%3C/svg%3E");
+  color: #000;
+}
+.IMFellDoublePica {
+  font-family: "IM Fell Double Pica", serif;
+}
+
+.RobotoSlab {
+  font-family: "Roboto Slab", serif;
+}
+
+.cardBg {
+  background-color: rgba(255, 255, 255, 0.8);
+}
